@@ -1,0 +1,7 @@
+What is the floyd-warchall algorithm good for and how does it work? 
+
+it finds the shortest distances between every pair of vetices given edge weighted direct graph. 
+1. initialize matric by filling in based on neighboring vertices for each vertex 
+2. After initial fill out, there is possible cases for unfilled vetices 
+a) k is not an imediate vertex in shortest path from i to j, need the value of dist[i][j] as it is 
+b) k is in the shortest path: update dist[i][j] = dist[i][k] + dist[k][j]
