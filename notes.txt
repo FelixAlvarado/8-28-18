@@ -14,3 +14,21 @@ What is a bloom filter?
 
 A space efficient data structure used to test whether an element is a memeber of a set false psotives are possible, but false negatives are not
 
+what is a bloom filter? 
+
+A space efficient data struture used to test whetheran element is a memeber of a set false positives are possible, but false negatives are not. 
+
+What is a singleton? 
+
+An object that can only be intantiated on time. 
+What are containers (OOP Design)? 
+
+A way of running applications and its dependencies in isolated enviroments
+
+What is Pub-sub pattern?
+
+Messaging pattern where senders (publishers) do not publish messages to be sent directly to specific receivers (subscribers) but instead catergorize published messages into classes without knowledge of which subscribers there may be subscribers express interest in one or more classes and only reeive messages that are of interest, without knowledge of the publisher of that message.
+
+What is multithreading? 
+
+The ability of a CPU to execute multiple processes or theads concurrently
